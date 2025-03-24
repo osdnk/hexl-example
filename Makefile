@@ -17,6 +17,3 @@ hexl: hexl/build
 
 hexl/build:
 	cmake -S ./hexl/ -B ./hexl/build
-
-clean: 
-	rm --f main_amortized main_rlwe main_non_amortized main_intt
