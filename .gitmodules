@@ -1,0 +1,3 @@
+[submodule "hexl"]
+	path = hexl
+	url = git@github.com:intel/hexl.git
